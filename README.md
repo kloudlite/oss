@@ -38,7 +38,7 @@
 - **Nix-based Package Management:** Utilizes Nix for managing workspace packages.
 - **Stateless Environments:** Supports ephemeral environments without overhead.
 - **Concurrent Development Support:** Enables multiple developers to work on the same environment simultaneously.
-- **Application Intercepts:** Allows developers to intercept applications running in environments, redirecting their network traffic to the workspace
+- **Service Intercepts:** Allows developers to intercept services running in environments, redirecting their network traffic to the workspace
 
 ## Resources
 - [Website](https://kloudlite.io)
